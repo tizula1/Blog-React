@@ -24,7 +24,7 @@ export default function Home(props) {
             <tbody>
             <tr>
               <td>
-                <img src="/images/meuIp.jpg"/>
+                <img src="/images/meuIP.jpg"/>
               </td>
               <td>
                 <h1>Meu IP:<br/> Aplicação desenvolvida em python utilizando a biblioteca "Tkinter" (Frontend) e "Socket" (Backend), o intuito dessa aplicação é otimizar
