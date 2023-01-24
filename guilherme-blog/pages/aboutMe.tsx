@@ -22,7 +22,7 @@ export default function Home(props) {
                 </div>
                 <div>
                 <h1>Olá, me chamo Guilherme de Souza,<br/> tenho 20 anos, sou formado em Análise e Desenvolvimento de Sistemas e atualmente 
-                    sou um apaixonado estudante de programação. Tenho hoje uma<br/> carreira no ramo da tecnologia de mais ou menos 3 anos, já tendo atuado desde Startups até
+                    sou um apaixonado estudante de programação. Tenho hoje uma<br/> carreira no ramo da tecnologia de aproximadamente 3 anos, já tendo atuado desde Startups até
                     grandes empresas como Stefanini Rafael e Cottonbaby.<br/> Minhas atuações tem sido mais focadas em suporte e infraestrutura de rede porém seguindo o sonho de me tornar
                     um desenvolvedor completo.<br/><br/> Se tiver interesse em entrar em contato comigo para trocarmos conhecimentos estou totalmente aberto,
                     clicando na imagem "contact me" estão meu Linkedin, GitHub e Email.
