@@ -24,7 +24,9 @@ export default function Home(props) {
             <tbody>
             <tr>
               <td>
-                <img src="/images/meuIP.jpg"/>
+                <Link href="https://github.com/tizula1/meuip">
+                    <img src="/images/meuIP.jpg"/>
+                  </Link>
               </td>
               <td>
                 <h1>Meu IP:<br/> Aplicação desenvolvida em python utilizando a biblioteca "Tkinter" (Frontend) e "Socket" (Backend), o intuito dessa aplicação é otimizar
